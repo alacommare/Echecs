@@ -8,7 +8,7 @@ J'étais en train de faire la mise en echec mais il y a encore quelques problèm
 Les mouvements valides et la boucle de jeu ont été faits.
 
 
-J'ai travaillé sous CodeBlocks, j'ai donc changer le testPiece.cxx par main.cxx.
+J'ai travaillé sous CodeBlocks, j'ai donc changer le testPiece.cpp par main.cpp.
 
 Il est possible d'exécuter le projet en console donc en prenant le main.
 
